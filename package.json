@@ -1,0 +1,12 @@
+{
+  "name": "indexed-db-samples",
+  "version": "1.0.0",
+  "description": "Sample project for showing how to use IndexedDB with Dexie, PouchDB and native IndexedDB API",
+  "main": "index.js",
+  "author": "Adibla",
+  "license": "MIT",
+  "dependencies": {
+    "dexie": "^3.2.4",
+    "pouchdb": "^8.0.1"
+  }
+}
